@@ -18,7 +18,7 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 ## 🧾 Project Overview
 
 - 📋 151 Pokémon from the Kanto region (Gen 1)
-- 📊 Base stats: HP, Attack, Defense, Sp. Atk, Sp. Def, Speed
+- 📊 Base stats: HP, Attack, Defense, Sp. Atk, Sp. Def, Speed (Gen 2 Framework: Special was split into Sp. Atk and Sp. Def)
 - 🧠 Derived stats: Total base stat, Type Score (based on weaknesses & strengths)
 - 📈 Visualizations to uncover relationships and design patterns
 
