@@ -46,7 +46,7 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 
 ---
 
-![type-sample](assets/sample_plot_type_matrix.jpg)
+![type-sample](assets/sample_plot_corr_matrix.jpg)
 
 ---
 
