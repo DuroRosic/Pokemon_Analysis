@@ -73,6 +73,8 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 ├── notebooks/          # Main Jupyter notebook
 └── README.md           # This file
 
+```
+
 ## 📬 Contact
 
 📧 rosic.duro@gmail.com
