@@ -59,6 +59,11 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 
 ---
 
+![type_matchup_matrix](assets/sample_plot_type_matchup_matrix.jpg)
+![type_matchup_table](assets/sample_plot_type_matchup_table.jpg)
+
+---
+
 ## 📂 Repository Structure
 
 ```plaintext
