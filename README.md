@@ -72,3 +72,8 @@ You are free to use, adapt, and share the materials for **non-commercial purpose
 ├── assets/             # Visualizations, plots
 ├── notebooks/          # Main Jupyter notebook
 └── README.md           # This file
+
+## 📬 Contact
+
+📧 rosic.duro@gmail.com
+🌐 https://www.linkedin.com/in/duro-rosic-data-analyst/
